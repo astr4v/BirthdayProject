@@ -16,11 +16,11 @@ Proyek ini adalah sebuah purwarupa (prototipe) alat interaktif berbasis mikrokon
 | :--- | :--- | :--- | :--- |
 | **OLED 0.96"** | VCC | 5V / 3.3V | 3.3V |
 | | GND | GND | GND |
-| | SCL | 22 | D22 |
+| | SCL | 22 | D20 |
 | | SDA | 21 | D21 |
 | **Sensor TTP223** | VCC | 5V / 3.3V | 3.3V |
 | | GND | GND | GND |
-| | I/O (SIG) | **Pin 2** | **D1** |
+| | I/O (SIG) | **Pin 1** | **D1** |
 | **Passive Buzzer** | VCC / + | **Pin 8** | **D2** |
 | | GND / - | GND | GND |
 
